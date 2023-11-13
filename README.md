@@ -1,3 +1,3 @@
 # stranka
 
-Odkaz: www.
+Odkaz: https://kristynavackova.github.io/
