@@ -1,1 +1,3 @@
 # stranka
+
+Odkaz: www.
